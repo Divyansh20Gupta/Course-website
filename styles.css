@@ -1,0 +1,64 @@
+/* Custom styles for the course learning page */
+
+/* Header styles */
+header {
+    padding: 20px;
+    background-color: #b66767;
+}
+
+header h1 {
+    margin: 0;
+}
+
+/* Navigation styles */
+nav {
+    margin-top: 20px;
+}
+
+nav ul {
+    list-style-type: none;
+    padding: 0;
+}
+
+nav ul ul {
+    margin-top: 5px;
+}
+
+nav ul li a {
+    text-decoration: none;
+    color: #333;
+}
+
+nav ul li a:hover {
+    color: #007bff;
+}
+
+/* Course content styles */
+section {
+    margin-top: 20px;
+}
+
+section h2 {
+    margin-top: 40px;
+}
+
+section article {
+    margin-bottom: 40px;
+}
+
+/* Footer styles */
+footer {
+    margin-top: 40px;
+    padding: 20px;
+    background-color: #b66767;
+}
+
+/* Language selection styles */
+footer a {
+    text-decoration: none;
+    color: #333;
+}
+
+footer a:hover {
+    color: #007bff;
+}
